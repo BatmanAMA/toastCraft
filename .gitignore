@@ -31,8 +31,8 @@ override.tf.json
 
 # Hide files with sensitive information
 backend.tf
-*.tfvars
-*.tfvars_
+# *.tfvars
+# *.tfvars_
 # Used for c-scripted.yml workflow
 !ci.tfvars 
 !config.auto.example.tfvars

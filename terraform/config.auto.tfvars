@@ -1,5 +1,7 @@
 enable_log_filter              = true # Chat privacy
 
+location                       = "centralus"
+
 enable_auto_startstop          = true
 enable_backup                  = true
 
